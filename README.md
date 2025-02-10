@@ -12,7 +12,7 @@ This project leverages the LLaMA 3 model for generating conversational responses
 - **Logging**: All interactions are logged to a file for analytics and debugging purposes.
 - **FastAPI Backend**: Handles the communication between the Streamlit frontend and the LLaMA 3 model.
 
-![Chatbot UI](Screenshot 2025-02-10 201615.png)  
+![Chatbot UI](Screenshot.png)  
 
 ###  Implement a Simple Context System  
 ✅ Allow the chatbot to remember past interactions within the same conversation.  
